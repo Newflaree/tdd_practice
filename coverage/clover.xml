@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1727792530379" clover="3.2.0">
+  <project timestamp="1727792530379" name="All files">
+    <metrics statements="62" coveredstatements="62" conditionals="12" coveredconditionals="12" methods="15" coveredmethods="15" elements="89" coveredelements="89" complexity="0" loc="62" ncloc="62" packages="1" files="13" classes="13"/>
+    <file name="contains.ts" path="/Users/newflare/Workspace/tests/tdd-practice/src/contains.ts">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="1" count="12" type="stmt"/>
+      <line num="2" count="6" type="stmt"/>
+    </file>
+    <file name="factorial.ts" path="/Users/newflare/Workspace/tests/tdd-practice/src/factorial.ts">
+      <metrics statements="3" coveredstatements="3" conditionals="1" coveredconditionals="1" methods="1" coveredmethods="1"/>
+      <line num="1" count="12" type="stmt"/>
+      <line num="2" count="7" type="cond" truecount="1" falsecount="0"/>
+      <line num="4" count="5" type="stmt"/>
+    </file>
+    <file name="fibonacci.ts" path="/Users/newflare/Workspace/tests/tdd-practice/src/fibonacci.ts">
+      <metrics statements="8" coveredstatements="8" conditionals="5" coveredconditionals="5" methods="1" coveredmethods="1"/>
+      <line num="14" count="12" type="stmt"/>
+      <line num="18" count="28" type="cond" truecount="1" falsecount="0"/>
+      <line num="19" count="1" type="stmt"/>
+      <line num="22" count="27" type="cond" truecount="1" falsecount="0"/>
+      <line num="23" count="21" type="cond" truecount="1" falsecount="0"/>
+      <line num="24" count="17" type="cond" truecount="1" falsecount="0"/>
+      <line num="26" count="11" type="stmt"/>
+      <line num="28" count="11" type="stmt"/>
+    </file>
+    <file name="findMax.ts" path="/Users/newflare/Workspace/tests/tdd-practice/src/findMax.ts">
+      <metrics statements="4" coveredstatements="4" conditionals="1" coveredconditionals="1" methods="1" coveredmethods="1"/>
+      <line num="1" count="12" type="stmt"/>
+      <line num="2" count="5" type="cond" truecount="1" falsecount="0"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="6" count="4" type="stmt"/>
+    </file>
+    <file name="findPair.ts" path="/Users/newflare/Workspace/tests/tdd-practice/src/findPair.ts">
+      <metrics statements="8" coveredstatements="8" conditionals="1" coveredconditionals="1" methods="1" coveredmethods="1"/>
+      <line num="1" count="12" type="stmt"/>
+      <line num="2" count="4" type="stmt"/>
+      <line num="4" count="4" type="stmt"/>
+      <line num="5" count="14" type="stmt"/>
+      <line num="7" count="14" type="cond" truecount="1" falsecount="0"/>
+      <line num="8" count="3" type="stmt"/>
+      <line num="11" count="11" type="stmt"/>
+      <line num="14" count="1" type="stmt"/>
+    </file>
+    <file name="index.ts" path="/Users/newflare/Workspace/tests/tdd-practice/src/index.ts">
+      <metrics statements="12" coveredstatements="12" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <line num="1" count="12" type="stmt"/>
+      <line num="2" count="12" type="stmt"/>
+      <line num="3" count="12" type="stmt"/>
+      <line num="4" count="12" type="stmt"/>
+      <line num="5" count="12" type="stmt"/>
+      <line num="6" count="12" type="stmt"/>
+      <line num="7" count="12" type="stmt"/>
+      <line num="8" count="12" type="stmt"/>
+      <line num="9" count="12" type="stmt"/>
+      <line num="10" count="12" type="stmt"/>
+      <line num="11" count="12" type="stmt"/>
+      <line num="12" count="12" type="stmt"/>
+    </file>
+    <file name="invertString.ts" path="/Users/newflare/Workspace/tests/tdd-practice/src/invertString.ts">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="1" count="12" type="stmt"/>
+      <line num="2" count="3" type="stmt"/>
+    </file>
+    <file name="isAnagram.ts" path="/Users/newflare/Workspace/tests/tdd-practice/src/isAnagram.ts">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <line num="1" count="12" type="stmt"/>
+      <line num="2" count="12" type="stmt"/>
+      <line num="9" count="6" type="stmt"/>
+    </file>
+    <file name="isBalanced.ts" path="/Users/newflare/Workspace/tests/tdd-practice/src/isBalanced.ts">
+      <metrics statements="10" coveredstatements="10" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1"/>
+      <line num="1" count="12" type="stmt"/>
+      <line num="2" count="6" type="stmt"/>
+      <line num="4" count="6" type="stmt"/>
+      <line num="5" count="19" type="cond" truecount="2" falsecount="0"/>
+      <line num="6" count="9" type="stmt"/>
+      <line num="7" count="10" type="cond" truecount="1" falsecount="0"/>
+      <line num="8" count="10" type="stmt"/>
+      <line num="11" count="19" type="cond" truecount="1" falsecount="0"/>
+      <line num="12" count="2" type="stmt"/>
+      <line num="16" count="4" type="stmt"/>
+    </file>
+    <file name="isPalindrome.ts" path="/Users/newflare/Workspace/tests/tdd-practice/src/isPalindrome.ts">
+      <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="1" count="12" type="stmt"/>
+      <line num="2" count="5" type="stmt"/>
+      <line num="3" count="5" type="stmt"/>
+      <line num="5" count="5" type="stmt"/>
+    </file>
+    <file name="removeDuplicates.ts" path="/Users/newflare/Workspace/tests/tdd-practice/src/removeDuplicates.ts">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="1" count="12" type="stmt"/>
+      <line num="2" count="5" type="stmt"/>
+    </file>
+    <file name="sortArray.ts" path="/Users/newflare/Workspace/tests/tdd-practice/src/sortArray.ts">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <line num="1" count="12" type="stmt"/>
+      <line num="2" count="20" type="stmt"/>
+    </file>
+    <file name="sumArray.ts" path="/Users/newflare/Workspace/tests/tdd-practice/src/sumArray.ts">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <line num="1" count="12" type="stmt"/>
+      <line num="2" count="12" type="stmt"/>
+    </file>
+  </project>
+</coverage>
